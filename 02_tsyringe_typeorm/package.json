@@ -1,0 +1,23 @@
+{
+  "name": "02_tsyringe_typeorm",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "sqlite3": "^5.0.0",
+    "tsyringe": "^4.3.0",
+    "typeorm": "^0.2.25"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.50",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.6"
+  }
+}
